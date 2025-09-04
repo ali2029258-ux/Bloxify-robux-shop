@@ -1,0 +1,21 @@
+<a href="https://discord.gg/E8uKBCY9ZJ" class="btn">Discord’a Katıl</a>
+<p>Discord Sunucumuza Katıl: <a href="https://discord.gg/E8uKBCY9ZJ" target="_blank">discord.gg/E8uKBCY9ZJ</a></p>
+<nav>
+  <!-- Diğer linkler -->
+  <a href="https://discord.gg/E8uKBCY9ZJ" target="_blank" class="btn">Discord’a Katıl</a>
+</nav>
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #00ff66;
+  color: #000;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00cc55;
+}
+<a href="https://discord.gg/E8uKBCY9ZJ" class="btn" target="_blank">Discord’a Katıl</a>
